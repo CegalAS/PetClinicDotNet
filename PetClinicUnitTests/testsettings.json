@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SQLServerConnection": "server=localhost,1433; database=PetClinic; user id=sa; password=yourStrong(!)Password;encrypt=false;trustservercertificate=false"
+  }
+}
